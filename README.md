@@ -4,7 +4,7 @@
     <p> 🔭 I'm currently working on various projects that help me train as a Full Stack Developer. These projects are made in: </p>
     <p><b>Backend</b>  -> <b>Spring Boot</b> || <b>Java Servlet & JSP</b> || <b>Node.js</b> || <b>PHP</b></p>
     <p><b>Frontend</b> -> <b>Javascript</b> || <b>React</b></p>
-    <p>🌱 I’m currently learning PHP language.</p>
+    <p>🌱 I’m currently learning...  all...</p>
     <h2> Visit my Portfolio :top: </h2>
     <a href="https://arcprojects.es" target="_blank">
         https://arcprojects.es    
