@@ -1,9 +1,10 @@
 <div align="center">
     <h1>Hi there 👋</h1> 
-    <p> :satisfied: I started in this beatiful world in January 2022, and I must admit that based on perseverance and commitment, I have learned a lot, and I will not     stop learning. </p>
-    <p> 🔭 I'm currently working on various projects that help me train as a Full Stack Developer. These projects are made in: </p>
-    <p><b>Backend</b>  -> <b>Spring Boot</b> - <b>Java Servlet & JSP</b> - <b>Node.js</b> - <b>PHP</b></p>
-    <p><b>Frontend</b> -> <b>React + Typescript</b> - <b>Javascript</b></p>
+    <h3>Skills</h3>
+    <p>Backend</p>
+    <p><b>Spring Boot</b> - <b>Java Servlet & JSP</b> - <b>Node.js</b> - <b>PHP</b></p>
+    <p>Frontend</p>
+    <p><b>React + Typescript</b> - <b>Javascript</b></p>
     <p>🌱 I’m currently learning...  all...</p>
     <h2> Visit my Portfolio :top: </h2>
     <a href="https://arcprojects.es" target="_blank">
