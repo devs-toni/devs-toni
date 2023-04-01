@@ -6,9 +6,9 @@
     <p>
         1+ years of experience developing and maintaining software applications. I've designed and developed advanced applications from use cases and functional               requirements. I'm always researching new technologies to ensure a constant update of my knowledge. I'm not afraid of facing new technologies, rather I'm               looking forward to it.
     </p>
-    <p>Backend</p>
+    <h2>Backend Skills/p>
     <p><b>Spring Boot</b> - <b>Java Servlet & JSP</b> - <b>Node.js</b> - <b>PHP</b></p>
-    <p>Frontend</p>
+    <h2>Frontend Skills</h2>
     <p><b>React + Typescript</b> - <b>Javascript</b></p>
     <p>🌱 I’m currently learning...  all...</p>
     <h2> Visit my Portfolio :top: </h2>
