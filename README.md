@@ -36,7 +36,6 @@
                 <td width="80px" align="center">
                     <span><strong>Node</strong></span><br>
                     <img height="32px" src="https://user-images.githubusercontent.com/103459716/229304682-bd3ad0a0-951a-405f-805a-8e1f5e2e7e4c.png">
-
                 </td>
                 <td width="80px" align="center">
                     <span><strong>MySQL</strong></span><br>
@@ -44,7 +43,7 @@
                 </td>
                 <td width="80px" align="center">
                     <span><strong>MongoDB</strong></span><br>
-                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/229304777-ed264787-0788-4028-b06a-5197818bece5.png">
                 </td>
                 <td width="80px" align="center">
                     <span><strong>ElasticSearch</strong></span><br>
