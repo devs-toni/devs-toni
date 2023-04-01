@@ -115,7 +115,7 @@
                 </td>
                 <td width="80px" align="center">
                     <span><strong>VSCode</strong></span><br>
-                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718629-149cb560-9aa2-4413-b8e7-d3cf1d3fea86.png">
+                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/229305115-0c2b568d-6696-409a-af35-1f8535951c71.png">
                 </td>
             </tr>
         </tbody>
