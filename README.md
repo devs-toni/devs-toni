@@ -1,6 +1,9 @@
 <div align="center">
     <h1>Hi there 👋</h1> 
-    <h3>Skills</h3>
+    <p>
+        Hi, my name is Antonio, and I'm a spanish based full stack developer waiting to set up home wherever destiny decides, as long as english is spoken.
+        1+ years of experience developing and maintaining software applications. I've designed and developed advanced applications from use cases and functional               requirements. I'm always researching new technologies to ensure a constant update of my knowledge. I'm not afraid of facing new technologies, rather I'm               looking forward to it.
+    </p>
     <p>Backend</p>
     <p><b>Spring Boot</b> - <b>Java Servlet & JSP</b> - <b>Node.js</b> - <b>PHP</b></p>
     <p>Frontend</p>
