@@ -31,7 +31,7 @@
                 </td>
                 <td width="80px" align="center">
                     <span><strong>PHP</strong></span><br>
-                    ![pngegg](https://user-images.githubusercontent.com/103459716/229304605-e832a371-b96a-4cc2-b6fc-861df69f5147.png)
+                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/229304605-e832a371-b96a-4cc2-b6fc-861df69f5147.png">
                 </td>
                 <td width="80px" align="center">
                     <span><strong>Node</strong></span><br>
