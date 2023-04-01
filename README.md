@@ -30,31 +30,47 @@
                     <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718846-455b6051-6f38-42cb-abe8-59f2e69e3c01.png">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>HTML</strong></span><br>
-                    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+                    <span><strong>PHP</strong></span><br>
+                    <img height="32" src="https://e7.pngegg.com/pngimages/906/282/png-clipart-logo-computer-icons-php-wm-logo-text-label.png">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>CSS</strong></span><br>
-                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+                    <span><strong>Node</strong></span><br>
+                    <img height="32px" src="https://e7.pngegg.com/pngimages/906/282/png-clipart-logo-computer-icons-php-wm-logo-text-label.png">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>MySQL</strong></span><br>
+                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>MongoDB</strong></span><br>
+                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>ElasticSearch</strong></span><br>
+                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718803-23b0ec9b-91d9-4431-9443-caca463db2b4.png">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>Docker</strong></span><br>
+                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+                </td>
+            </tr>
+            <tr valign="top">
+                <td width="80px" align="center">
+                    <span><strong>React</strong></span><br>
+                    <img height="32px" src="https://e7.pngegg.com/pngimages/906/282/png-clipart-logo-computer-icons-php-wm-logo-text-label.png">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>Typescript</strong></span><br>
+                    <img height="32px" src="https://e7.pngegg.com/pngimages/906/282/png-clipart-logo-computer-icons-php-wm-logo-text-label.png">
                 </td>
                 <td width="80px" align="center">
                     <span><strong>JS</strong></span><br>
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>React</strong></span><br>
-                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-                </td>
-                <td width="80px" align="center">
-                    <span><strong>Bootstrap</strong></span><br>
-                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-                </td>
-                <td width="80px" align="center">
                     <span><strong>Android</strong></span><br>
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
                 </td>
-            </tr>
-            <tr valign="top">
                 <td width="80px" align="center">
                     <span><strong>Git</strong></span><br>
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
@@ -64,20 +80,34 @@
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>Elastic</strong></span><br>
-                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718803-23b0ec9b-91d9-4431-9443-caca463db2b4.png">
-                </td>
-                <td width="80px" align="center">
-                    <span><strong>MySQL</strong></span><br>
-                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
-                </td>
-                <td width="80px" align="center">
-                    <span><strong>Docker</strong></span><br>
-                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-                </td>
-                <td width="80px" align="center">
                     <span><strong>Cloud</strong></span><br>
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>Tailwind</strong></span><br>
+                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>Bootstrap</strong></span><br>
+                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+                </td>
+            </tr>
+            <tr valign="top">
+                <td width="80px" align="center">
+                    <span><strong>Tailwind</strong></span><br>
+                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>Bootstrap</strong></span><br>
+                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>HTML</strong></span><br>
+                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>CSS</strong></span><br>
+                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
                 </td>
                 <td width="80px" align="center">
                     <span><strong>Postman</strong></span><br>
@@ -91,6 +121,10 @@
                     <span><strong>Eclipse</strong></span><br>
                     <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718629-149cb560-9aa2-4413-b8e7-d3cf1d3fea86.png">
                 </td>
+                <td width="80px" align="center">
+                    <span><strong>VSCode</strong></span><br>
+                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718629-149cb560-9aa2-4413-b8e7-d3cf1d3fea86.png">
+                </td>
             </tr>
         </tbody>
     </table>
@@ -98,4 +132,6 @@
     <div align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=devs-toni&show_icons=true&theme=dark" alt="Stats" />
     </div>
+
 </div>
+
