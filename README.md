@@ -1,7 +1,9 @@
-<div align="center">
+<div align="left">
     <h1>Hi there 👋</h1> 
     <p>
         Hi, my name is Antonio, and I'm a spanish based full stack developer waiting to set up home wherever destiny decides, as long as english is spoken.
+    </p>
+    <p>
         1+ years of experience developing and maintaining software applications. I've designed and developed advanced applications from use cases and functional               requirements. I'm always researching new technologies to ensure a constant update of my knowledge. I'm not afraid of facing new technologies, rather I'm               looking forward to it.
     </p>
     <p>Backend</p>
