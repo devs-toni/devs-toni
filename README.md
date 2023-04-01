@@ -8,9 +8,9 @@
     </p>
     <p></p>
     <h2>Backend Skills</h2>
-    <p><b>Spring Boot</b> - <b>Java Servlet & JSP</b> - <b>Node.js</b> - <b>PHP</b></p>
+    <p><b>Java - SpringBoot - Node.js[Typescript] - PHP</b></p>
     <h2>Frontend Skills</h2>
-    <p><b>React + Typescript</b> - <b>Javascript</b></p>
+    <p><b>React[Typescript]</b></p>
     <p>🌱 I’m currently learning...  all!!! ❤️</p>
     <h2> Visit my Portfolio :top: </h2>
     <a href="https://arcprojects.es" target="_blank">
