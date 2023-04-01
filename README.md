@@ -57,7 +57,7 @@
             <tr valign="top">
                 <td width="80px" align="center">
                     <span><strong>React</strong></span><br>
-                    <img height="32px" src="https://e7.pngegg.com/pngimages/906/282/png-clipart-logo-computer-icons-php-wm-logo-text-label.png">
+                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/229304851-4b250757-0e45-4fa5-b2fb-3ffe29174b02.png">
                 </td>
                 <td width="80px" align="center">
                     <span><strong>Typescript</strong></span><br>
