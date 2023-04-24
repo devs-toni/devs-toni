@@ -131,8 +131,9 @@
     <div align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=devs-toni&show_icons=true&theme=dark" alt="Stats" />
     </div>
+    <br />
     
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devs-toni)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devs-toni)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
