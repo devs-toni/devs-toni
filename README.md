@@ -12,7 +12,7 @@
     <h2>Frontend Skills</h2>
     <p><b>CSS - SASS - Styled Components - React[Typescript] - NPM</b></p>
     <br /><p>🌱 I’m currently learning...  all!!!  ❤️❤️❤️</p>
-    <h2>Portfolio :top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top:</h2>
+    <h2>Portfolio :top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top:</h2>
     <a href="https://arcprojects.es" target="_blank">
         https://arcprojects.es    
     </a>
