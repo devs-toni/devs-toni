@@ -15,14 +15,16 @@
     <h2>Portfolio :top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top:</h2>
     <div align="center">
         <a href="https://arcprojects.es" target="_blank">
-            <img align="center" height="50" src="https://arcprojects.es/assets/me-dark-e25f12e7.png" />   
+            <img align="center" height="50" src="https://arcprojects.es/assets/me-dark-e25f12e7.png" />  
+        </a>
+        <a href="https://arcprojects.es" target="_blank">
+            <b>arcprojects.es</b>
         </a>
     </div>
     <h2> Visit my LinkedIn :rocket: </h3>
     <div align="center">
         <a href="https://www.linkedin.com/in/antonio-rufino-casasus/">
             <img align="center" height="50" src="https://user-images.githubusercontent.com/103459716/194719773-32f70ef4-5ff9-4f56-855b-d57c35ef85d9.png" />
-            <b>arcprojects.es</b>
         </a>
     </div>
     <h2> 🛠 Tools & Technologies</h2>
