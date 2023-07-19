@@ -41,10 +41,6 @@
                     <img height="32px" src="https://objectcomputing.com/files/cache/60c3924dc859338fe55d21cc49082a62_f4838.png">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>JUnit</strong></span><br>
-                    <img height="32px" src="https://i0.wp.com/www.clubdetecnologia.net/wp-content/uploads/2018/10/junit5-logo.png?fit=512%2C512&ssl=1">
-                </td>
-                <td width="80px" align="center">
                     <span><strong>Hibernate</strong></span><br>
                     <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718846-455b6051-6f38-42cb-abe8-59f2e69e3c01.png">
                 </td>
@@ -79,8 +75,8 @@
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>Android</strong></span><br>
-                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+                    <span><strong>JUnit</strong></span><br>
+                    <img height="32px" src="https://i0.wp.com/www.clubdetecnologia.net/wp-content/uploads/2018/10/junit5-logo.png?fit=512%2C512&ssl=1">
                 </td>
                 <td width="80px" align="center">
                     <span><strong>Git</strong></span><br>
@@ -103,7 +99,11 @@
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
                 </td>
             </tr>
-            <tr valign="top">
+            <tr valign="top">              
+                <td width="80px" align="center">
+                    <span><strong>Android</strong></span><br>
+                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+                </td>
                 <td width="80px" align="center">
                     <span><strong>GitHub</strong></span><br>
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
@@ -143,4 +143,3 @@
     <div align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=devs-toni&show_icons=true&theme=dark" alt="Stats" />
     </div>
-
