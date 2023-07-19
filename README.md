@@ -10,7 +10,7 @@
     <h2>Backend Skills</h2>
     <p><b>Java - Kotlin - SpringBoot - Micronaut - JUnit - Docker - Maven - Tomcat - Node.js[Typescript] - PHP</b></p>
     <h2>Frontend Skills</h2>
-    <p><b>React[Typescript] - NPM - SASS/CSS/StyledComponents</b></p>
+    <p><b>CSS - SASS - Styled Components - React[Typescript] - NPM</b></p>
     <p>🌱 I’m currently learning...  all!!! ❤️</p>
     <h2> Visit my Portfolio :top: </h2>
     <a href="https://arcprojects.es" target="_blank">
