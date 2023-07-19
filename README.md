@@ -1,9 +1,6 @@
 <div align="left">
     <h1>Hi there 👋</h1> 
     <p>
-        Hi, my name is Antonio, and I'm a spanish based full stack developer waiting to set up home wherever destiny decides, as long as english is spoken.
-    </p>
-    <p>
         Full stack developer with 1 year and 6 months of experience in software development. I have worked in teams in projects with agile methodologies, managed through version control, and creating new features from user stories with TDD and maintaining          integration systems and continuous deployment, 
         I have designed and developed my own applications for pure entertainment, always improving them by acquiring new knowledge. I like to study new technologies so I can use them in my projects and broaden my horizons.
     </p>
