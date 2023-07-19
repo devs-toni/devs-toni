@@ -41,6 +41,10 @@
                     <img height="32px" src="https://objectcomputing.com/files/cache/60c3924dc859338fe55d21cc49082a62_f4838.png">
                 </td>
                 <td width="80px" align="center">
+                    <span><strong>JUnit</strong></span><br>
+                    <img height="32px" src="https://i0.wp.com/www.clubdetecnologia.net/wp-content/uploads/2018/10/junit5-logo.png?fit=512%2C512&ssl=1">
+                </td>
+                <td width="80px" align="center">
                     <span><strong>Hibernate</strong></span><br>
                     <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718846-455b6051-6f38-42cb-abe8-59f2e69e3c01.png">
                 </td>
@@ -83,7 +87,7 @@
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>ElasticSearch</strong></span><br>
+                    <span><strong>ElasticS</strong></span><br>
                     <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718803-23b0ec9b-91d9-4431-9443-caca463db2b4.png">
                 </td>
                 <td width="80px" align="center">
