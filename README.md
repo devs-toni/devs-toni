@@ -13,9 +13,11 @@
     <p><b>CSS - SASS - Styled Components - React[Typescript] - NPM</b></p>
     <br /><p>🌱 I’m currently learning...  all!!!  ❤️❤️❤️</p>
     <h2>Portfolio :top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top:</h2>
-    <a href="https://arcprojects.es" target="_blank">
-        https://arcprojects.es    
-    </a>
+    <div align="center">
+        <a href="https://arcprojects.es" target="_blank">
+            <img align="center" height="50" src="https://arcprojects.es/assets/me-dark-e25f12e7.png" />   
+        </a>
+    </div>
     <h2> Visit my LinkedIn :rocket: </h3>
     <div align="center">
         <a href="https://www.linkedin.com/in/antonio-rufino-casasus/">
