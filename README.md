@@ -27,7 +27,7 @@
             <img align="center" height="50" src="https://user-images.githubusercontent.com/103459716/194719773-32f70ef4-5ff9-4f56-855b-d57c35ef85d9.png" />
         </a>
     </div>
-    <br /><p>🌱 I’M CURRENTLY LEARNING...  <b>ALL</b>!!!  ❤️❤️❤️</p>
+    <br /><p align="center">🌱 I’M CURRENTLY LEARNING...  <b>ALL</b>!!!  ❤️❤️❤️</p><br />
     <h2> 🛠 Tools & Technologies</h2>
     <table width="320px" align="center">
         <tbody>
