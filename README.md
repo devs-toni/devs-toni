@@ -11,7 +11,6 @@
     <p><b>Java - Kotlin - SpringBoot - Micronaut - JUnit - Docker - Maven - Tomcat - Node.js[Typescript] - PHP</b></p>
     <h2>Frontend Skills</h2>
     <p><b>CSS - SASS - Styled Components - React[Typescript] - NPM</b></p>
-    <br /><p>🌱 I’m currently learning...  all!!!  ❤️❤️❤️</p>
     <h2>Portfolio :top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top:</h2>
     <div align="center">
         <a href="https://arcprojects.es" target="_blank">
@@ -146,6 +145,7 @@
                 </td>
             </tr>
         </tbody>
+        <br /><p>🌱 I’m currently learning...  all!!!  ❤️❤️❤️</p>
     </table>
     <br><br><br>
     <div align="center">
