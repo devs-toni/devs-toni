@@ -129,10 +129,6 @@
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>Cloud</strong></span><br>
-                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-                </td>
-                <td width="80px" align="center">
                     <span><strong>IntellijIdea</strong></span><br>
                     <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718701-80a3dbf4-3e73-4e5c-bd5d-f47312aa1f3c.png">
                 </td>
