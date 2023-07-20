@@ -49,8 +49,8 @@
                     <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718846-455b6051-6f38-42cb-abe8-59f2e69e3c01.png">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>PHP</strong></span><br>
-                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/229304605-e832a371-b96a-4cc2-b6fc-861df69f5147.png">
+                    <span><strong>JUnit</strong></span><br>
+                    <img height="32px" src="https://i0.wp.com/www.clubdetecnologia.net/wp-content/uploads/2018/10/junit5-logo.png?fit=512%2C512&ssl=1">
                 </td>
                 <td width="80px" align="center">
                     <span><strong>Node</strong></span><br>
@@ -67,55 +67,43 @@
             </tr>
             <tr valign="top">
                 <td width="80px" align="center">
-                    <span><strong>React</strong></span><br>
-                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/229304851-4b250757-0e45-4fa5-b2fb-3ffe29174b02.png">
+                    <span><strong>JS</strong></span><br>
+                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
                 </td>
                 <td width="80px" align="center">
                     <span><strong>Typescript</strong></span><br>
                     <img height="32px" src="https://user-images.githubusercontent.com/103459716/229304943-ea9df65e-5df0-4e8c-8efd-bb73c0262663.png"> 
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>JS</strong></span><br>
-                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-                </td>
-                <td width="80px" align="center">
-                    <span><strong>JUnit</strong></span><br>
-                    <img height="32px" src="https://i0.wp.com/www.clubdetecnologia.net/wp-content/uploads/2018/10/junit5-logo.png?fit=512%2C512&ssl=1">
+                    <span><strong>React</strong></span><br>
+                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/229304851-4b250757-0e45-4fa5-b2fb-3ffe29174b02.png">
                 </td>
                 <td width="80px" align="center">
                     <span><strong>Git</strong></span><br>
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>ElasticS</strong></span><br>
-                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718803-23b0ec9b-91d9-4431-9443-caca463db2b4.png">
-                </td>
-                <td width="80px" align="center">
                     <span><strong>Docker</strong></span><br>
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>Tailwind</strong></span><br>
-                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/229305025-912e584c-3a38-4306-84cb-d2bc3b712904.png">
+                    <span><strong>Elastic</strong></span><br>
+                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718803-23b0ec9b-91d9-4431-9443-caca463db2b4.png">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>Bootstrap</strong></span><br>
-                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+                    <span><strong>Kafka</strong></span><br>
+                    <img height="32px" src="https://www.trisotech.com/wp-content/uploads/kafka-icon.png">
                 </td>
-            </tr>
-            <tr valign="top">              
+                <td width="80px" align="center">
+                    <span><strong>PHP</strong></span><br>
+                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/229304605-e832a371-b96a-4cc2-b6fc-861df69f5147.png">
+                </td>
                 <td width="80px" align="center">
                     <span><strong>Android</strong></span><br>
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
                 </td>
-                <td width="80px" align="center">
-                    <span><strong>GitHub</strong></span><br>
-                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-                </td>
-                <td width="80px" align="center">
-                    <span><strong>Cloud</strong></span><br>
-                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-                </td>
+            </tr>
+            <tr valign="top">              
                 <td width="80px" align="center">
                     <span><strong>HTML</strong></span><br>
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -125,8 +113,24 @@
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
                 </td>
                 <td width="80px" align="center">
+                    <span><strong>Tailwind</strong></span><br>
+                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/229305025-912e584c-3a38-4306-84cb-d2bc3b712904.png">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>Bootstrap</strong></span><br>
+                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+                </td>
+                <td width="80px" align="center">
                     <span><strong>Postman</strong></span><br>
                     <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718735-87ea7df4-9f98-4250-8d0b-91297358fe67.png">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>GitHub</strong></span><br>
+                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>Cloud</strong></span><br>
+                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
                 </td>
                 <td width="80px" align="center">
                     <span><strong>IntellijIdea</strong></span><br>
