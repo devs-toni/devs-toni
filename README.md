@@ -125,7 +125,7 @@
                     <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718735-87ea7df4-9f98-4250-8d0b-91297358fe67.png">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>GitHub</strong></span><br>
+                    <span><strong>GH Actions</strong></span><br>
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
                 </td>
                 <td width="80px" align="center">
