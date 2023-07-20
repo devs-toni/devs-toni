@@ -7,10 +7,6 @@
         I have designed and developed my own applications for pure entertainment, always improving them by acquiring new knowledge. I like to study new technologies so I can use them in my projects and broaden my horizons.
     </p>
     <p></p>
-    <h2>Backend Skills</h2>
-    <p><b>Java - Kotlin - SpringBoot - Micronaut - JUnit - Docker - Maven - Tomcat - Node.js[Typescript] - PHP</b></p>
-    <h2>Frontend Skills</h2>
-    <p><b>CSS - SASS - Styled Components - React[Typescript] - NPM</b></p>
     <h2>Portfolio :top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top::top:</h2>
     <div align="center">
         <a href="https://arcprojects.es" target="_blank">
@@ -27,7 +23,7 @@
             <img align="center" height="50" src="https://user-images.githubusercontent.com/103459716/194719773-32f70ef4-5ff9-4f56-855b-d57c35ef85d9.png" />
         </a>
     </div>
-    <br /><p align="center">🌱 I’M CURRENTLY LEARNING...  <b>ALL</b>!!!  ❤️❤️❤️</p><br />
+    <br /><br /><p align="center">🌱 I’M CURRENTLY LEARNING...  <b>ALL</b>!!!  ❤️❤️❤️</p><br />
     <h2> 🛠 Tools & Technologies</h2>
     <table width="320px" align="center">
         <tbody>
