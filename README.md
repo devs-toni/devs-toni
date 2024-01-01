@@ -7,7 +7,7 @@
         I have designed and developed my own applications for pure entertainment, always improving them by acquiring new knowledge. I like to study new technologies so I can use them in my projects and broaden my horizons.
     </p>
     <p></p>
-    <h2>Portfolio :top:</h2>
+    <h2>:top: Portfolio</h2>
     <div align="center">
         <a href="https://arcprojects.es" target="_blank">
             <img align="center" height="50" src="https://arcprojects.es/assets/me-dark-e25f12e7.png" />  
