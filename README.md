@@ -10,7 +10,7 @@
     <h2>:top: Portfolio</h2>
     <div align="center">
         <a href="https://arcprojects.es" target="_blank">
-            <img align="center" height="50" src="https://arcprojects.es/assets/me-dark-e25f12e7.png" />  
+            <img align="center" height="50" src="https://files.merca20.com/uploads/2018/12/portfolio.jpg" />  
         </a>
         <br />
         <a href="https://arcprojects.es" target="_blank">
