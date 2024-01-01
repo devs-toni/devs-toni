@@ -7,10 +7,10 @@
         I have designed and developed my own applications for pure entertainment, always improving them by acquiring new knowledge. I like to study new technologies so I can use them in my projects and broaden my horizons.
     </p>
     <p></p>
-    <br />
     <p align="center">🌱 I’M CURRENTLY LEARNING...  <b>ALL</b>!!!  ❤️❤️❤️</p>
     <br />
     <h2>:top: Portfolio</h2>
+    <br />
     <div align="center">
         <a href="https://arcprojects.es" target="_blank">
             <img align="center" height="100" width="220" src="https://files.merca20.com/uploads/2018/12/portfolio.jpg" />  
