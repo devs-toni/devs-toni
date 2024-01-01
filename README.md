@@ -10,10 +10,9 @@
     <h2>:top: Portfolio</h2>
     <div align="center">
         <a href="https://arcprojects.es" target="_blank">
-            <img align="center" height="80" width="200" src="https://files.merca20.com/uploads/2018/12/portfolio.jpg" />  
+            <img align="center" height="100" width="220" src="https://files.merca20.com/uploads/2018/12/portfolio.jpg" />  
         </a>
         <br />
-        <b>https://arcprojects.es</b>
     </div>
     <h2>:rocket: Visit my LinkedIn</h3>
     <div align="center">
