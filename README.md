@@ -92,10 +92,6 @@
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>Elastic</strong></span><br>
-                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718803-23b0ec9b-91d9-4431-9443-caca463db2b4.png">
-                </td>
-                <td width="80px" align="center">
                     <span><strong>Kafka</strong></span><br>
                     <img height="32px" src="https://www.trisotech.com/wp-content/uploads/kafka-icon.png">
                 </td>
@@ -146,42 +142,30 @@
                     <img height="32px" src="https://user-images.githubusercontent.com/103459716/229305115-0c2b568d-6696-409a-af35-1f8535951c71.png">
                 </td>
             </tr>
-                        <tr valign="top">              
+            <tr valign="top">              
                 <td width="80px" align="center">
-                    <span><strong>HTML</strong></span><br>
-                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+                    <span><strong>MySQL</strong></span><br>
+                    <img height="32px" src="https://cdn.prod.website-files.com/66754aa69a5d872183713f9c/672dfced5422c158fb5a6002_mysql%20logo.png">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>CSS</strong></span><br>
-                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+                    <span><strong>PostgreSQL</strong></span><br>
+                    <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>Tailwind</strong></span><br>
-                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/229305025-912e584c-3a38-4306-84cb-d2bc3b712904.png">
+                    <span><strong>SQLite</strong></span><br>
+                    <img height="32px" src="https://www.aprendexojo.com/wp-content/uploads/2018/03/Sqlite.png">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>Bootstrap</strong></span><br>
-                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+                    <span><strong>MariaDB</strong></span><br>
+                    <img height="32px" src="https://www.qe2computing.com/wp-content/uploads/2023/07/mariadb.com_logo-oficial-vert_blue-transparent-1.33.webp">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>Postman</strong></span><br>
-                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718735-87ea7df4-9f98-4250-8d0b-91297358fe67.png">
+                    <span><strong>MongoDB</strong></span><br>
+                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/229304777-ed264787-0788-4028-b06a-5197818bece5.png">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>GHActions</strong></span><br>
-                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-                </td>
-                <td width="80px" align="center">
-                    <span><strong>IntellijIdea</strong></span><br>
-                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718701-80a3dbf4-3e73-4e5c-bd5d-f47312aa1f3c.png">
-                </td>
-                <td width="80px" align="center">
-                    <span><strong>Eclipse</strong></span><br>
-                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718629-149cb560-9aa2-4413-b8e7-d3cf1d3fea86.png">
-                </td>
-                <td width="80px" align="center">
-                    <span><strong>VSCode</strong></span><br>
-                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/229305115-0c2b568d-6696-409a-af35-1f8535951c71.png">
+                    <span><strong>Elastic</strong></span><br>
+                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718803-23b0ec9b-91d9-4431-9443-caca463db2b4.png">
                 </td>
             </tr>
         </tbody>
