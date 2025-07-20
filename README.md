@@ -130,7 +130,7 @@
                     <img height="32px" src="https://avatars.githubusercontent.com/u/2678585?s=200&v=4">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>GHActions</strong></span><br>
+                    <span><strong>Actions</strong></span><br>
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
                 </td>
                 <td width="80px" align="center">
@@ -138,7 +138,7 @@
                     <img height="32px" src="https://www.trisotech.com/wp-content/uploads/kafka-icon.png">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>RabbitMQ</strong></span><br>
+                    <span><strong>Rabbit</strong></span><br>
                     <img height="32px" src="https://web-creator.ru/technologies/rabbitmq.png">
                 </td>
                 <td width="80px" align="center">
