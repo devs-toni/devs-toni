@@ -21,7 +21,7 @@
     </div>
     <h2>:rocket: Visit my LinkedIn</h3>
     <div align="center">
-        <a href="https://www.linkedin.com/in/antonio-rufino-casasus/">
+        <a href="www.linkedin.com/in/antonio-rufino">
             <img align="center" height="80" src="https://user-images.githubusercontent.com/103459716/194719773-32f70ef4-5ff9-4f56-855b-d57c35ef85d9.png" />
         </a>
     </div>
