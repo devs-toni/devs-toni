@@ -122,16 +122,28 @@
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>Kafka</strong></span><br>
-                    <img height="32px" src="https://www.trisotech.com/wp-content/uploads/kafka-icon.png">
+                    <span><strong>Swarm</strong></span><br>
+                    <img height="32px" src="https://miro.medium.com/v2/resize:fit:555/1*TOluAaqOoEoiibUmmvRyuA.png">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>Android</strong></span><br>
-                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+                    <span><strong>Proxmox</strong></span><br>
+                    <img height="32px" src="https://avatars.githubusercontent.com/u/2678585?s=200&v=4">
                 </td>
                 <td width="80px" align="center">
                     <span><strong>GHActions</strong></span><br>
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>Kafka</strong></span><br>
+                    <img height="32px" src="https://www.trisotech.com/wp-content/uploads/kafka-icon.png">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>RabbitMQ</strong></span><br>
+                    <img height="32px" src="https://web-creator.ru/technologies/rabbitmq.png">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>Mosquitto</strong></span><br>
+                    <img height="32px" src="https://media.trustradius.com/product-logos/fe/6X/3PRKP52X1E06-180x180.PNG">
                 </td>
             </tr>
             <tr valign="top">              
