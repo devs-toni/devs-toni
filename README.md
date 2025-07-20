@@ -126,32 +126,12 @@
                     <img height="32px" src="https://www.trisotech.com/wp-content/uploads/kafka-icon.png">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>PHP</strong></span><br>
-                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/229304605-e832a371-b96a-4cc2-b6fc-861df69f5147.png">
-                </td>
-                <td width="80px" align="center">
                     <span><strong>Android</strong></span><br>
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>Postman</strong></span><br>
-                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718735-87ea7df4-9f98-4250-8d0b-91297358fe67.png">
-                </td>
-                <td width="80px" align="center">
                     <span><strong>GHActions</strong></span><br>
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-                </td>
-                <td width="80px" align="center">
-                    <span><strong>IntellijIdea</strong></span><br>
-                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718701-80a3dbf4-3e73-4e5c-bd5d-f47312aa1f3c.png">
-                </td>
-                <td width="80px" align="center">
-                    <span><strong>Eclipse</strong></span><br>
-                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718629-149cb560-9aa2-4413-b8e7-d3cf1d3fea86.png">
-                </td>
-                <td width="80px" align="center">
-                    <span><strong>VSCode</strong></span><br>
-                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/229305115-0c2b568d-6696-409a-af35-1f8535951c71.png">
                 </td>
             </tr>
             <tr valign="top">              
@@ -178,6 +158,22 @@
                 <td width="80px" align="center">
                     <span><strong>Elastic</strong></span><br>
                     <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718803-23b0ec9b-91d9-4431-9443-caca463db2b4.png">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>IntellijIdea</strong></span><br>
+                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718701-80a3dbf4-3e73-4e5c-bd5d-f47312aa1f3c.png">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>Eclipse</strong></span><br>
+                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718629-149cb560-9aa2-4413-b8e7-d3cf1d3fea86.png">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>VSCode</strong></span><br>
+                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/229305115-0c2b568d-6696-409a-af35-1f8535951c71.png">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>Postman</strong></span><br>
+                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718735-87ea7df4-9f98-4250-8d0b-91297358fe67.png">
                 </td>
             </tr>
         </tbody>
