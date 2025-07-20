@@ -51,7 +51,7 @@
                 </td>
                 <td width="80px" align="center">
                     <span><strong>JUnit</strong></span><br>
-                    <img height="32px" src="https://i0.wp.com/www.clubdetecnologia.net/wp-content/uploads/2018/10/junit5-logo.png?fit=512%2C512&ssl=1">
+                    <img height="32px" src="https://junit.org/assets/img/junit5-logo.png">
                 </td>
                 <td width="80px" align="center">
                     <span><strong>Node</strong></span><br>
