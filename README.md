@@ -88,9 +88,27 @@
                     <img height="32px" src="https://miro.medium.com/v2/resize:fit:1200/1*9l9kbbiuFHWVqcjUJZcdYw.png">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>React Query</strong></span><br>
+                    <span><strong>R.Query</strong></span><br>
                     <img height="32px" src="https://user-images.githubusercontent.com/46889813/106451545-c7cef300-6497-11eb-80d9-e51c9fc3cd33.png">
                 </td>
+                <td width="80px" align="center">
+                    <span><strong>HTML</strong></span><br>
+                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>CSS</strong></span><br>
+                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>Tailwind</strong></span><br>
+                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/229305025-912e584c-3a38-4306-84cb-d2bc3b712904.png">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>Bootstrap</strong></span><br>
+                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+                </td>
+            </tr>
+            <tr valign="top">              
                 <td width="80px" align="center">
                     <span><strong>Git</strong></span><br>
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
@@ -110,24 +128,6 @@
                 <td width="80px" align="center">
                     <span><strong>Android</strong></span><br>
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-                </td>
-            </tr>
-            <tr valign="top">              
-                <td width="80px" align="center">
-                    <span><strong>HTML</strong></span><br>
-                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-                </td>
-                <td width="80px" align="center">
-                    <span><strong>CSS</strong></span><br>
-                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-                </td>
-                <td width="80px" align="center">
-                    <span><strong>Tailwind</strong></span><br>
-                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/229305025-912e584c-3a38-4306-84cb-d2bc3b712904.png">
-                </td>
-                <td width="80px" align="center">
-                    <span><strong>Bootstrap</strong></span><br>
-                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
                 </td>
                 <td width="80px" align="center">
                     <span><strong>Postman</strong></span><br>
