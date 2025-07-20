@@ -92,6 +92,10 @@
                     <img height="32px" src="https://user-images.githubusercontent.com/46889813/106451545-c7cef300-6497-11eb-80d9-e51c9fc3cd33.png">
                 </td>
                 <td width="80px" align="center">
+                    <span><strong>R.Router</strong></span><br>
+                    <img height="32px" src="https://miro.medium.com/v2/resize:fit:1400/1*XblBNRQcqcwjY4751onfCg.png">
+                </td>
+                <td width="80px" align="center">
                     <span><strong>HTML</strong></span><br>
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
                 </td>
