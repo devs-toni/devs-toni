@@ -54,6 +54,10 @@
                     <img height="32px" src="https://junit.org/assets/img/junit5-logo.png">
                 </td>
                 <td width="80px" align="center">
+                    <span><strong>Python</strong></span><br>
+                    <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png">
+                </td>
+                <td width="80px" align="center">
                     <span><strong>Node</strong></span><br>
                     <img height="32px" src="https://user-images.githubusercontent.com/103459716/229304682-bd3ad0a0-951a-405f-805a-8e1f5e2e7e4c.png">
                 </td>
