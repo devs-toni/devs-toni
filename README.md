@@ -50,7 +50,7 @@
                     <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718846-455b6051-6f38-42cb-abe8-59f2e69e3c01.png">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>JUnit</strong></span><br>
+                    <span><strong>JUnit 5</strong></span><br>
                     <img height="32px" src="https://junit.org/assets/img/junit5-logo.png">
                 </td>
                 <td width="80px" align="center">
@@ -58,16 +58,16 @@
                     <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png">
                 </td>
                 <td width="80px" align="center">
+                    <span><strong>FastAPI</strong></span><br>
+                    <img height="32px" src="https://avatars.githubusercontent.com/u/156354296?s=280&v=4">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>Pydantic</strong></span><br>
+                    <img height="32px" src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4">
+                </td>
+                <td width="80px" align="center">
                     <span><strong>Node</strong></span><br>
                     <img height="32px" src="https://user-images.githubusercontent.com/103459716/229304682-bd3ad0a0-951a-405f-805a-8e1f5e2e7e4c.png">
-                </td>
-                <td width="80px" align="center">
-                    <span><strong>MySQL</strong></span><br>
-                    <img height="32px" src="https://cdn.prod.website-files.com/66754aa69a5d872183713f9c/672dfced5422c158fb5a6002_mysql%20logo.png">
-                </td>
-                <td width="80px" align="center">
-                    <span><strong>MongoDB</strong></span><br>
-                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/229304777-ed264787-0788-4028-b06a-5197818bece5.png">
                 </td>
             </tr>
             <tr valign="top">
@@ -109,6 +109,44 @@
                 </td>
             </tr>
             <tr valign="top">              
+                <td width="80px" align="center">
+                    <span><strong>HTML</strong></span><br>
+                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>CSS</strong></span><br>
+                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>Tailwind</strong></span><br>
+                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/229305025-912e584c-3a38-4306-84cb-d2bc3b712904.png">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>Bootstrap</strong></span><br>
+                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>Postman</strong></span><br>
+                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718735-87ea7df4-9f98-4250-8d0b-91297358fe67.png">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>GHActions</strong></span><br>
+                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>IntellijIdea</strong></span><br>
+                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718701-80a3dbf4-3e73-4e5c-bd5d-f47312aa1f3c.png">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>Eclipse</strong></span><br>
+                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/194718629-149cb560-9aa2-4413-b8e7-d3cf1d3fea86.png">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>VSCode</strong></span><br>
+                    <img height="32px" src="https://user-images.githubusercontent.com/103459716/229305115-0c2b568d-6696-409a-af35-1f8535951c71.png">
+                </td>
+            </tr>
+                        <tr valign="top">              
                 <td width="80px" align="center">
                     <span><strong>HTML</strong></span><br>
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
