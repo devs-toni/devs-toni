@@ -59,7 +59,7 @@
                 </td>
                 <td width="80px" align="center">
                     <span><strong>MySQL</strong></span><br>
-                    <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+                    <img height="32px" src="https://cdn.prod.website-files.com/66754aa69a5d872183713f9c/672dfced5422c158fb5a6002_mysql%20logo.png">
                 </td>
                 <td width="80px" align="center">
                     <span><strong>MongoDB</strong></span><br>
