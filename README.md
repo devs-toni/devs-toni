@@ -1,13 +1,13 @@
 <div align="left">
     <h1>Hi there 👋</h1> 
     <p>
-        Ful        <p>Full Stack Developer with 2+ years of experience building scalable software solutions. I excel in collaborative team environments, delivering robust features through agile methodologies and implementing comprehensive user stories using test-driven development.</p>
+        <p>Full Stack Developer with 2+ years of experience building scalable software solutions. I excel in collaborative team environments, delivering robust features through agile methodologies and                 implementing comprehensive user stories using test-driven development.</p>
         <br>
-        <p>My expertise spans the entire development lifecycle, from designing clean architectures to maintaining CI/CD pipelines that ensure seamless integration and deployment. I'm passionate about writing maintainable code that follows industry best practices and SOLID principles.</p>
+        <p>My expertise spans the entire development lifecycle, from designing clean architectures to maintaining CI/CD pipelines that ensure seamless integration and deployment. I'm passionate about                  writing maintainable code that follows industry best practices and SOLID principles.</p>
         <br>
-        <p>Beyond professional projects, I actively develop personal applications for continuous learning and experimentation. This hands-on approach allows me to stay current with emerging technologies and incorporate innovative solutions into my work.</p>
+        <p>Beyond professional projects, I actively develop personal applications for continuous learning and experimentation. This hands-on approach allows me to stay current with emerging technologies and           incorporate innovative solutions into my work.</p>
         <br>
-        <p>I'm driven by curiosity and committed to expanding my technical knowledge. Whether mastering new frameworks, exploring design patterns, or diving into cutting-edge technologies, I believe in continuous growth as the foundation of exceptional software development.</p>
+        <p>I'm driven by curiosity and committed to expanding my technical knowledge. Whether mastering new frameworks, exploring design patterns, or diving into cutting-edge technologies, I believe in                continuous growth as the foundation of exceptional software development.</p>
         <br>
         <p><strong>🌱 Currently exploring:</strong> Advanced microservices patterns, cloud-native architectures, and modern DevOps practices</p>
     <br />
