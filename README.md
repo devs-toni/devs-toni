@@ -145,6 +145,14 @@
                     <span><strong>Mosquitto</strong></span><br>
                     <img height="32px" src="https://media.trustradius.com/product-logos/fe/6X/3PRKP52X1E06-180x180.PNG">
                 </td>
+                <td width="80px" align="center">
+                    <span><strong>Linear</strong></span><br>
+                    <img height="32px" src="https://assets.findstack.com/s942j4osp551a9rubi7wom0nycwv">
+                </td>
+                <td width="80px" align="center">
+                    <span><strong>Jira</strong></span><br>
+                    <img height="32px" src="https://w7.pngwing.com/pngs/935/1018/png-transparent-jira-cloud-macos-bigsur-icon-thumbnail.png">
+                </td>
             </tr>
             <tr valign="top">              
                 <td width="80px" align="center">
