@@ -76,7 +76,7 @@
                     <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>Typescript</strong></span><br>
+                    <span><strong>TS</strong></span><br>
                     <img height="32px" src="https://user-images.githubusercontent.com/103459716/229304943-ea9df65e-5df0-4e8c-8efd-bb73c0262663.png"> 
                 </td>
                 <td width="80px" align="center">
